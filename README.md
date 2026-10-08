@@ -28,6 +28,8 @@ El programa integra un menú principal interactivo que permite ejecutar y visual
 5. **Rotación de Arreglo (`arreglos`):** Demuestra el desplazamiento de elementos en un arreglo circular desplazando todas las posiciones una unidad hacia la derecha.
 
 ---
+imagen
+<img width="632" height="796" alt="image" src="https://github.com/user-attachments/assets/ea76634f-ac19-473a-b125-63abffb8fcf9" />
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
